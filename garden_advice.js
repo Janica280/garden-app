@@ -17,6 +17,7 @@ const gardeningAdvice = {
     summer: "Water your plants regularly and provide some shade.\n",
     autumn:
       "Clear away fallen leaves and prepare the soil for the coming winter.\n",
+    fall: "Clear away fallen leaves and prepare the soil for the coming winter.\n",
     winter: "Protect your plants from frost with covers.\n",
     spring: "Remove dead leaves and twigs, and provide fertilizer.\n",
   },
